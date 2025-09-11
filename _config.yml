@@ -2,3 +2,7 @@ title: 我的博客
 description: 欢迎来到我的个人博客
 author: huaketang
 theme: minima
+header_pages:
+  - index.md
+  - algorithm-journey/README.md
+  - _posts/
