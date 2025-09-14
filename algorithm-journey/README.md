@@ -3,4 +3,5 @@
 ## 已完成题目
 - [2025-09-10 最长连续子字符串](https://github.com/huaketang/huaketang.github.io/blob/main/algorithm-journey/records/2025-09-10-longest-consecutive-substring.md)
 - [2025-09-12 最长递增子序列](https://github.com/huaketang/huaketang.github.io/blob/main/algorithm-journey/records/2025-09-12-longest-increasing-subsequence.md)
+- [2025-09-14 俄罗斯套娃信封问题](https://github.com/huaketang/huaketang.github.io/blob/main/algorithm-journey/records/2025-09-14-Russian-Doll-Envelopes.md)
 - ...
